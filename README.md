@@ -1,2 +1,4 @@
-# Pattern_Recognition_and_Machine_Learning
-A series of experiments for “Pattern Recognition and Machine Learning” .
+# 模式识别与机器学习 源文件
+目前有两个实验：
+线性分类感知器
+贝叶斯综合实验
