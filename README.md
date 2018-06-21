@@ -1,15 +1,21 @@
 # 模式识别与机器学习
 此库包括四个实验：<br/>
+<br/>
 1.线性分类感知器实验<br/>
+<br/>
 Linear_Classification_Stage2.m（阶段1和阶段2）<br/>
 Linear_Classification_Stage3.m（阶段3）<br/>
 Linear_Classification_Stage4.m（阶段4）<br/>
+<br/>
 2.贝叶斯综合实验<br/>
+<br/>
 Bayesian_Classifier_Stage1.m（阶段1）<br/>
 Bayesian_Classifier_Stage2_2D.m（阶段2和阶段3，输入数据集为2维）<br/>
 Bayesian_Classifier_Stage2_3D.m（阶段2和阶段3，输入数据集为3维）<br/>
 Bayesian_Classifier_Stage2_4D.m（阶段2和阶段3，输入数据集为4维）<br/>
+<br/>
 3.分类决策树实验<br/>
+<br/>
 Decision_Tree_Discrete.m（离散属性值决策树）<br/>
 Decision_Tree_Continuous.m（连续属性值决策树）<br/>
 Entropy_of_All.m（类别的信息熵）<br/>
@@ -19,7 +25,9 @@ Division.m（对于连续属性值，基于信息增益的二分法选择最佳�
 Brunch.m（离散属性值的节点分支函数）<br/>
 Brunch_Continuous.m（连续属性值的节点分支函数）<br/>
 DT_Plot.m（决策树绘图呈现函数）<br/>
+<br/>
 4.神经网络和误差逆传播算法实验<br/>
+<br/>
 AutoEncoder_Improved.m（自编码器）<br/>
 BP.m（激活函数为Sigmoid函数的单隐层误差逆传播神经网络）<br/>
 BP2H.m（激活函数为Sigmoid函数的双隐层误差逆传播神经网络）<br/>
